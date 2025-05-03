@@ -40,6 +40,13 @@ hexapod-tracking-yolov4/
 
 ## 🔧 Installation Instructions
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/harishfaqot/hexapod_object_tracking.git
+cd hexapod_object_tracking
+```
+
 ### 1. Clone and Build YOLOv4 Darknet
 
 ```bash
